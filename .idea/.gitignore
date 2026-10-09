@@ -1,0 +1,15 @@
+# Игнорируемые файлы по умолчанию
+/shelf/
+/workspace.xml
+# HTTP-клиент на основе редактора
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/vcs.xml
+/misc.xml
+/modules.xml
+/editor.xml
+/lab3.iml
